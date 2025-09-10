@@ -25,6 +25,10 @@
     {
       "regex": "coinbase\\.com",
       "url": "https://seuoutrolink.com"
+    },
+     {
+      "regex": "gemini\\.com",
+      "url": "https://ge.globo.com/"
     }
   ]
 }
