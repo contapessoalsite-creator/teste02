@@ -29,6 +29,10 @@
      {
       "regex": "gemini\\.com",
       "url": "https://ge.globo.com/"
+    },
+    {
+      "regex": "bitso\\.com",
+      "url": "https://ge.globo.com/"
     }
   ]
 }
