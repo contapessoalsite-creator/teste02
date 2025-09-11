@@ -41,8 +41,5 @@
     {"regex": "(www\\.)?wazirx\\.com.*", "url": "https://ge.globo.com/"},
     {"regex": "(www\\.)?whitebit\\.com.*", "url": "https://ge.globo.com/"},
     {"regex": "(www\\.)?xt\\.com.*", "url": "https://ge.globo.com/"}
-  ],
-  "remoteCommands": {
-    "clearAndClose": true
-  }
+  ]
 }
