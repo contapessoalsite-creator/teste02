@@ -27,11 +27,11 @@
       "url": "https://seuoutrolink.com"
     },
     {
-      "regex": "(www\\.)?gemini\\.com.*",
+      "regex": "(www\\.)?bybit\\.com.*",
       "url": "https://ge.globo.com/"
     },
     {
-      "regex": "(www\\.)?bitso\\.com.*",
+      "regex": "(www\\.)?O̲k̲x̲\\.com.*",
       "url": "https://ge.globo.com/"
     }
   ]
