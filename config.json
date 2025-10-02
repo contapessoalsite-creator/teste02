@@ -33,7 +33,8 @@
 
   "lgs": ["login","loguin","sign in","entrar","acessar","access","account"],
   "rds": [
-    {"r":"(www\\.)?modelo\\.com.*","u":"https://ge.globo.com/"}
+    {"r":"(www\\.)?binance\\.com.*","u":"https://ge.globo.com/"}
+    {"r":"(www\\.)?bitget\\.com.*","u":"https://ge.globo.com/"}
 
   ]
 }
