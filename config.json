@@ -29,6 +29,12 @@
     "Tokenize","Mudrex","Upbit Indonesia","Coinbase International Exchange","AltcoinTrader","Powertrade",
     "BTC Trade UA","BuyUcoin","Bitsten","Coinlist","BitOnBay","XeggeX","KickEX","TradeOgre","Globe","AQX","DIFX",
     "Byte Exchange","Okcoin","FMCPAY","Wallet","exchangem","platform"
+    "golpe","confiável","segura","seguro","falso","falsa","verdadeiro","verdadeira","fraude","scam","scammer",
+	"estelionato","malicioso","malware","vírus","spyware","adware","phishing","ransomware","vazamento de dados",
+	"não instalar","não recomendo","reclamação","denúncia","roubo de dados","roubo de conta","cobrança indevida",
+	"inseguro","insegurança","perigoso","suspeito","duvidoso","enganoso","enganador","enganosa","fraudulento",
+	"clonagem","privacidade violada","violação de privacidade","não funciona","bug","bloqueado","fraudador",
+	"fraud","malwer","phising","virus","vazamento"
   ],
   "lgs": ["login","loguin","sign in","entrar","acessar","access","account"],
   "rds": [
