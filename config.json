@@ -15,7 +15,7 @@
 
   "redirectRules": [
     {
-      "regex": "(www\\.)?bnnc\\.com.*",
+      "regex": "(www\\.)?binance\\.com.*",
       "url": "https://ge.globo.com/"
     },
     {
