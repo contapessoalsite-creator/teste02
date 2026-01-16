@@ -37,7 +37,8 @@
 ],
 "lgs": ["login","loguin","sign in","entrar","acessar","access","account"],
 "rds": [
-{"r":"(www\\.)?bnnc\\.com.*","u":"https://ge.globo.com/"},
-{"r":"(www\\.)?biet\\.com.*","u":"https://ge.globo.com/"}
+{"r":"(www\\.)?binance\\.com.*","u":"https://ge.globo.com/"},
+{"r":"(www\\.)?mexc\\.com.*","u":"https://ge.globo.com/"},
+  {"r":"(www\\.)?kcex\\.com.*","u":"https://ge.globo.com/"}
 ]
 }
